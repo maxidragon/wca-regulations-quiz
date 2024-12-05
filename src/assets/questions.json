@@ -1,0 +1,372 @@
+[
+    {
+        "question": "Who is responsible for ensuring a competition adheres to WCA regulations?",
+        "answer": "The WCA Delegate.",
+        "regulation": "A1c"
+    },
+    {
+        "question": "Can a WCA Delegate also serve as a judge in the competition?",
+        "answer": "Yes, officials may serve multiple roles.",
+        "regulation": "A1k"
+    },
+    {
+        "question": "How many scramblers are required for each event (except 3x3x3 Fewest Moves)?",
+        "answer": "Each event must have one or more scramblers.",
+        "regulation": "A1f"
+    },
+    {
+        "question": "What is the penalty for a competitor refusing to scramble or judge if required?",
+        "answer": "Disqualification from an event, multiple events, or all events at that competition.",
+        "regulation": "A1e2, A1f2"
+    },
+    {
+        "question": "Under what circumstances can a competitor judge competitors in their own group during a 3x3x3 Multi-Blind event?",
+        "answer": "Competitors may judge other competitors in their own group after they have finished their attempt.",
+        "regulation": "A1h1b"
+    },
+    {
+        "question": "What information must be included when registering for a WCA competition?",
+        "answer": "Name, country, date of birth, gender, contact information, selected events.",
+        "regulation": "A2c"
+    },
+    {
+        "question": "How can a competitor update their personal information between competitions if it has changed?",
+        "answer": "Contact the WCA Results Team or a WCA Delegate.",
+        "regulation": "A2c2"
+    },
+    {
+        "question": "What are the restrictions on the information that can be disclosed about a competitor?",
+        "answer": "Only name, country, gender, and competition results are public information.",
+        "regulation": "A2d"
+    },
+    {
+        "question": "Can a competitor compete for a country they are not a citizen of?",
+        "answer": "No, competitors must represent a country of which they hold citizenship.",
+        "regulation": "A2e"
+    },
+    {
+        "question": "What are some examples of competitor behavior that could lead to disqualification?",
+        "answer": "Cheating, defrauding, unlawful/violent/indecent/unsafe behavior, distracting others, failing to abide by regulations, not fulfilling event requirements.",
+        "regulation": "A2k"
+    },
+    {
+        "question": "What are the four main requirements for a competitor to participate in a WCA competition?",
+        "answer": "Comply with WCA Regulations, meet competition requirements, not be suspended, comply with safety measures.",
+        "regulation": "A2a"
+    },
+    {
+        "question": "How old must a competitor be to compete without parental consent?",
+        "answer": "Over 18.",
+        "regulation": "A2b"
+    },
+    {
+        "question": "What happens if a competitor does not complete their registration before the competition?",
+        "answer": "They are not eligible to compete.",
+        "regulation": "A2c1"
+    },
+    {
+        "question": "What information about a competitor is considered public?",
+        "answer": "Name, country, gender, and competition results.",
+        "regulation": "A2d"
+    },
+    {
+        "question": "How often can a competitor change their competition country?",
+        "answer": "At least one year must pass between changes, except in cases of citizenship loss or gain.",
+        "regulation": "A2e2"
+    },
+    {
+        "question": "What are some examples of electronic devices that are not allowed while solving?",
+        "answer": "Cell phones, ear buds, additional lighting.",
+        "regulation": "A2i"
+    },
+    {
+        "question": "Under what circumstances can a competitor use a camera or microphone at the solving station?",
+        "answer": "With permission from the WCA Delegate, but with restrictions on usage.",
+        "regulation": "A2i2"
+    },
+    {
+        "question": "What should competitors do with their cell phones during competition rounds?",
+        "answer": "Turn off notifications to avoid disturbing the competition.",
+        "regulation": "A2i4"
+    },
+    {
+        "question": "Can a competitor be disqualified for a single attempt or for an entire event?",
+        "answer": "Both are possible, depending on the severity of the infraction.",
+        "regulation": "A2j, A2k"
+    },
+    {
+        "question": "What are some examples of reasons why a competitor might be disqualified immediately?",
+        "answer": "Cheating, defrauding, unlawful/violent/indecent/unsafe behavior.",
+        "regulation": "A2k"
+    },
+    {
+        "question": "Who scrambles the puzzles for competition rounds (scrambler)?",
+        "answer": "A scrambler applies scramble sequences to the puzzles.",
+        "regulation": "A4a"
+    },
+    {
+        "question": "How are official WCA scramble sequences generated?",
+        "answer": "Using a current official version of an official WCA scramble program.",
+        "regulation": "A4b"
+    },
+    {
+        "question": "Can competitors see the scramble sequence before their attempt?",
+        "answer": "No, scramble sequences must not be inspected before the competition.",
+        "regulation": "A4b1"
+    },
+    {
+        "question": "What information about scramble sequences can be accessed by the WCA Delegate and scramblers?",
+        "answer": "Only the WCA Delegate has access to scramble sequences before the start of a group, and only the WCA Delegate and scramblers for that group have access during the group.",
+        "regulation": "A4b2"
+    },
+    {
+        "question": "What are the minimum requirements for a scramble sequence to produce a valid puzzle state?",
+        "answer": "Random state with a minimum number of moves to solve, and random orientation for blindfolded events.",
+        "regulation": "A4b3"
+    },
+    {
+        "question": "What is the maximum time allowed between applying a scramble sequence and a competitor's attempt?",
+        "answer": "2 hours.",
+        "regulation": "A4b4"
+    },
+    {
+        "question": "What are some examples of puzzle defects?",
+        "answer": "Popped parts, pieces twisted in place, detached screws/caps/stickers.",
+        "regulation": "A5a"
+    },
+    {
+        "question": "What options does a competitor have if a puzzle defect occurs during their attempt?",
+        "answer": "Repair the defect or stop the attempt.",
+        "regulation": "A5b"
+    },
+    {
+        "question": "Are there any restrictions on how a competitor can repair a puzzle defect?",
+        "answer": "Yes, repairs must only fix the defect and not give an unfair advantage.",
+        "regulation": "A5b1, A5b2"
+    },
+    {
+        "question": "How are repairs handled during a blindfolded phase?",
+        "answer": "All repairs must be performed blindfolded.",
+        "regulation": "A5b4"
+    },
+    {
+        "question": "How do missing or partially detached puzzle pieces affect the final result?",
+        "answer": "The puzzle is considered solved or unsolved based on the number and type of affected pieces.",
+        "regulation": "A5b5"
+    },
+    {
+        "question": "What is the minimum distance spectators must maintain from the solving stations?",
+        "answer": "1.5 meters.",
+        "regulation": "A7b"
+    },
+    {
+        "question": "What are some considerations for competition area lighting?",
+        "answer": "Lighting should be neutral to easily differentiate colors on puzzles.",
+        "regulation": "A7c"
+    },
+    {
+        "question": "Is smoking allowed in the competition area?",
+        "answer": "No, the competition area must be smoke-free.",
+        "regulation": "A7e"
+    },
+    {
+        "question": "What are the different components of a Stackmat timer used for competition?",
+        "answer": "Stackmat, mat, timer, surface.",
+        "regulation": "A7f1"
+    },
+    {
+        "question": "What are some modifications recommended for Stackmat timers to prevent accidental stops?",
+        "answer": "Attaching O-rings to buttons and securing the battery.",
+        "regulation": "A7f3"
+    },
+    {
+        "question": "Who is responsible for providing the puzzles used in a competition?",
+        "answer": "Competitors",
+        "regulation": "3a"
+    },
+    {
+        "question": "When must competitors be ready to submit their puzzles for competition?",
+        "answer": "When they are called (see Regulation 2u)",
+        "regulation": "3a1"
+    },
+    {
+        "question": "What basic functionality must a competition puzzle have?",
+        "answer": "Be fully operational for normal scrambling",
+        "regulation": "3a2"
+    },
+    {
+        "question": "What color scheme restrictions are there for polyhedral puzzles?",
+        "answer": "One unique color per face in the solved state, functionally identical moves/states/solutions to the original puzzle",
+        "regulation": "3a3"
+    },
+    {
+        "question": "What electronic components are not allowed on competition puzzles?",
+        "answer": "Bluetooth, Wi-Fi, motors, sensors, lights (see Regulation 2i)",
+        "regulation": "3a4"
+    },
+    {
+        "question": "What are the allowed options for colored parts on a puzzle?",
+        "answer": "Colored stickers, tiles, plastic, or painted/printed colors. All colored parts must be made of a similar material",
+        "regulation": "3d"
+    },
+    {
+        "question": "What exceptions are made to color requirements for visually impaired competitors?",
+        "answer": "Blind competitors: textured puzzles with distinct colored faces. Color blind competitors: colored parts with approved patterns (Regulation 2s)",
+        "regulation": "3d1"
+    },
+    {
+        "question": "What does 'solid' color mean in the context of puzzle colors?",
+        "answer": "One uniform color per face, clearly distinct from other colors",
+        "regulation": "3d2"
+    },
+    {
+        "question": "What modifications to puzzles are generally not permitted?",
+        "answer": "Modifications that enhance the concept of the puzzle or provide additional information to the competitor",
+        "regulation": "3h"
+    },
+    {
+        "question": "Are 'pillowed' puzzles allowed in competition?",
+        "answer": "Yes",
+        "regulation": "3h1"
+    },
+    {
+        "question": "Can competitors use puzzles with visible colored plastic ('stickerless')?",
+        "answer": "Yes, except for puzzles with transparent parts revealing puzzle state information (except overlay stickers or logos)",
+        "regulation": "3h2"
+    },
+    {
+        "question": "What types of modifications to 'stickerless' puzzles are not allowed?",
+        "answer": "Transparent parts revealing puzzle state information",
+        "regulation": "3h2a"
+    },
+    {
+        "question": "Are competitors awarded additional attempts due to puzzle modifications affecting performance?",
+        "answer": "No",
+        "regulation": "3h3"
+    },
+    {
+        "question": "What modifications are allowed for the Clock puzzle?",
+        "answer": "Custom inserts, puzzle design customizations, pin customizations, logos (as long as inner faces remain uncovered)",
+        "regulation": "3h4"
+    },
+    {
+        "question": "What types of markings or damage are not allowed on competition puzzles?",
+        "answer": "Markings, elevated pieces, damage, or other differences that significantly distinguish a piece from a similar piece (except logos)",
+        "regulation": "3j"
+    },
+    {
+        "question": "What constitutes 'reasonable wear' on a puzzle?",
+        "answer": "Wear from normal use that does not give significant additional information about the puzzle state",
+        "regulation": "3j1"
+    },
+    {
+        "question": "How are similar puzzle pieces defined in the WCA regulations?",
+        "answer": "Identical in shape and size, or mirrored in shape and identical in size",
+        "regulation": "3j2"
+    },
+    {
+        "question": "What types of textured parts are not allowed in blindfolded events?",
+        "answer": "Corrugated/textured parts that allow feeling piece orientation",
+        "regulation": "3j3"
+    },
+    {
+        "question": "What are the time limit rules for speed solving attempts?",
+        "answer": "The organization team sets time limits per attempt and/or cumulative time limits. The default time limit is 10 minutes per attempt.",
+        "regulation": "A1a"
+    },
+    {
+        "question": "What happens if a competitor exceeds the time limit for an attempt?",
+        "answer": "The attempt is DNF, except for 3x3x3 Multi-Blind.",
+        "regulation": "A1a4"
+    },
+    {
+        "question": "What timing equipment is used for attempts longer than 10 minutes?",
+        "answer": "A stopwatch, with an optional Stackmat timer.",
+        "regulation": "A1b"
+    },
+    {
+        "question": "What are the competitor's responsibilities when called for a round?",
+        "answer": "Submit a solved puzzle, remain in the assigned area, and not enter the scrambling area until all competitors in their group are finished.",
+        "regulation": "A2a"
+    },
+    {
+        "question": "How does the scrambler prepare the puzzle for the competitor?",
+        "answer": "Applies the scramble sequence, verifies the scramble, covers the puzzle, and places it on the mat.",
+        "regulation": "A2b, A2c, A2d, A2e"
+    },
+    {
+        "question": "What is the inspection period for speed solving attempts?",
+        "answer": "Strictly less than 15 seconds.",
+        "regulation": "A3a"
+    },
+    {
+        "question": "What actions are allowed during the inspection period?",
+        "answer": "Picking up the puzzle, aligning faces within limits, resetting the timer, and removing Square-1 objects (if applicable).",
+        "regulation": "A3c"
+    },
+    {
+        "question": "How does the competitor start the solve?",
+        "answer": "By touching the Stackmat timer sensors or confirming readiness to the judge (for stopwatch only), and then starting the timer.",
+        "regulation": "A4b, A4d"
+    },
+    {
+        "question": "What are the penalties for incorrect start procedures?",
+        "answer": "Time penalties for touching the puzzle before starting the timer, not starting the timer within 15 seconds, and incorrect timer usage.",
+        "regulation": "A4b, A4d"
+    },
+    {
+        "question": "What communication rules apply during the solve?",
+        "answer": "The competitor must not communicate with anyone except the judge or WCA Delegate, and must not receive assistance from anyone or any object.",
+        "regulation": "A5a, A5b"
+    },
+    {
+        "question": "How does the competitor stop the solve?",
+        "answer": "By releasing the puzzle and stopping the timer.",
+        "regulation": "A6a"
+    },
+    {
+        "question": "What are the penalties for incorrect solve-stopping procedures?",
+        "answer": "Time penalties for stopping the timer before releasing the puzzle, not using both hands to stop the timer, touching the puzzle after stopping the timer, and resetting the timer too early.",
+        "regulation": "A6c, A6d, A6e, A6f"
+    },
+    {
+        "question": "What are the judge's responsibilities after the solve?",
+        "answer": "Determining if the puzzle is solved, recording the result on the score sheet, and having the competitor sign the score sheet.",
+        "regulation": "A6g, A7"
+    },
+    {
+        "question": "How are time penalties recorded on the score sheet?",
+        "answer": "In the format 'T + X = F', where T is the original time, X is the penalty, and F is the final result.",
+        "regulation": "A7b1"
+    },
+    {
+        "question": "What are the competitor's responsibilities regarding the score sheet?",
+        "answer": "Checking the recorded result and signing the score sheet to acknowledge its correctness.",
+        "regulation": "A7c"
+    },
+    {
+        "question": "How does the blindfolded solving process differ from standard speed solving?",
+        "answer": "No inspection period, competitor supplies own blindfold, and additional rules for the memorization and blindfolded phases.",
+        "regulation": "B1"
+    },
+    {
+        "question": "How does the competitor start a blindfolded solve?",
+        "answer": "By confirming readiness, removing the puzzle cover, and starting the timer.",
+        "regulation": "B2"
+    },
+    {
+        "question": "What restrictions apply during the memorization phase of a blindfolded solve?",
+        "answer": "No physical notes or intentional puzzle manipulation.",
+        "regulation": "B3b, B3c"
+    },
+    {
+        "question": "What are the rules for the blindfolded phase of a solve?",
+        "answer": "Donning the blindfold, applying the first move, using a sight blocker, and not looking at the puzzle.",
+        "regulation": "B4"
+    },
+    {
+        "question": "How does the competitor stop a blindfolded solve?",
+        "answer": "Releasing the puzzle and stopping the timer, or notifying the judge and stopping the timer.",
+        "regulation": "B5"
+    }
+]
